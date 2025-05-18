@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Camila 👋
 
-<!--
-**imaginarygirl/imaginarygirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Engineer with a strong foundation in cloud-native pipelines, data modeling, and cross-functional collaboration. With over 10 years of experience across telecom and financial services, I bring both technical depth and business understanding to every project.
 
-Here are some ideas to get you started:
+🔧 **Tech I'm working with:**
+- GCP (BigQuery, Dataproc, Cloud Composer)
+- Python, PySpark, SQL
+- CI/CD, Airflow, Git
+- Data Warehousing & ETL/ELT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Current project:**  
+Building an end-to-end batch data pipeline using **GCP Dataproc**, **BigQuery**, and **Cloud Composer**.  
+[Check it out here →](https://github.com/imaginarygirl/cloud-order-pipeline-dataproc)
+
+📌 **Next project:**  
+Real-time data ingestion using **Dataflow** and streaming APIs.
+
+💬 Let’s connect:  
+[LinkedIn](https://www.linkedin.com/in/camila-martins-532193b0/)
